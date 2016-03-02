@@ -1,5 +1,18 @@
 # Travis-CI-Node
 
+Steps to run the linkchecker (not actually checking links at this point)
+1) Install [glob](https://github.com/isaacs/node-glob) with ```npm i glob```. This does the pattern matching for finding all .md files.
+2) Install [marked](https://github.com/chjj/marked) with ```npm install marked```. Not using this right now, buit I might.
+3) Run npm install.
+4) Instll dependencies with ```node install```.
+5) Run this with ```node hello.js```. This will show glob getting all *.md in the directory. This will also show all links and their line number. At this point, we are ready to validate links.
+
+
+
+
+
+
+
 # Word add-ins
 
 [![Build Status](https://travis-ci.org/MIchaelMainer/Travis-CI-Node.svg?branch=master)](https://travis-ci.org/MIchaelMainer/Travis-CI-Node)
