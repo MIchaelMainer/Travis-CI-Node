@@ -8,6 +8,6 @@
     "write-good": "^0.9.1"
   },
   "scripts": {
-    "test": "./node_modules/write-good/bin/write-good.js readme.md"
+    "test": "./node_modules/write-good/bin/write-good.js README.md"
   }
 }
