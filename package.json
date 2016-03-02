@@ -9,5 +9,8 @@
   },
   "scripts": {
     "test": "./node_modules/write-good/bin/write-good.js README.md"
+  },
+  "dependencies": {
+    "marked": "^0.3.5"
   }
 }
