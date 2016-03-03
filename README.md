@@ -7,10 +7,7 @@ Steps to run the linkchecker (not actually checking links at this point)
 4) Instll dependencies with ```node install```.
 5) Run this with ```node hello.js```. This will show glob getting all *.md in the directory. This will also show all links and their line number. At this point, we are ready to validate links.
 
-
-
-
-
+To run a test, type npm <testname>.
 
 
 # Word add-ins
